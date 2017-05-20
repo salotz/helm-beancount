@@ -1,0 +1,1 @@
+Goal is to make beancount much easier to use and integrate it with helm.
