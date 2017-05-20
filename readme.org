@@ -1,1 +1,3 @@
 Goal is to make beancount much easier to use and integrate it with helm.
+
+See the helm-ledger project for other work on this area.
